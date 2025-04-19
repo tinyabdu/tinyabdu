@@ -8,7 +8,14 @@
 * 🤝 I’m looking to collaborate on python and flutter 
 * 💬 Ask me about collaboration work 
 * 📫 How to reach me: ...
-* ⚡ Fun fact: am so friendly 
+* ⚡ Fun fact: am so friendly
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.facebook.com/profile.php?id=100087753830219" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+</a>
+</p>
 
 <!--
 **tinyabdu/tinyabdu** .
@@ -33,4 +40,4 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="php" width="45" height="45"/>
 </p>
-![Snake animation](https://github.com/tinyabdu/tinyabdu/blob/output/github-contribution-grid-snake.svg)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinyabdu&show_icons=true&locale=en&layout=compact" alt="tinyabdu" /></p>
