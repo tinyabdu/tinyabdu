@@ -32,7 +32,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="php" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" alt="php" width="45" height="45"/>
 
-    
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinyabdu&show_icons=true&locale=en&layout=compact" alt="tinyabdu" />
-<img  
+
+
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tinyabdu&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinyabdu&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
