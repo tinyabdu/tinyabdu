@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi welcome to my profile 👋
+
+### Hi there 👋
+* 👂 My name is Abdullahi haruna 
+* 👩 Pronouns: he/him
+* 🔭 I’m currently working on open source projects 
+* 🌱 I’m currently learning new things 
+* 🤝 I’m looking to collaborate on python and flutter 
+* 💬 Ask me about collaboration work 
+* 📫 How to reach me: ...
+* ⚡ Fun fact: am so friendly 
 
 <!--
 **tinyabdu/tinyabdu** .
