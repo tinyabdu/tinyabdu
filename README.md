@@ -7,7 +7,7 @@
 * 🌱 I’m currently learning new things 
 * 🤝 I’m looking to collaborate on python and flutter 
 * 💬 Ask me about collaboration work 
-* 📫 How to reach me: ...
+* 📫 I'm always available 
 * ⚡ Fun fact: am so friendly
 
 <h3 align="left">Connect with me:</h3>
